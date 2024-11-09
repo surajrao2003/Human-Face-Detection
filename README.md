@@ -5,6 +5,8 @@ Face detection is a computer vision technology that helps to locate/visualize hu
 
 This project gives an ideal way of detecting and recognizing human faces using OpenCV, and Python which is part of Machine learning. It contains how Machine learning, an important part of the computer science field, can be used to determine the face using several libraries in OpenCV along with Python. This system will contain a proposed system that will help in the detecting the human face in real-time. This implementation can be used at various platforms in machines and smartphones, and several software applications.
 
+However, I encountered challenges in recognizing faces under varying lighting conditions. To address this issue, I developed BrightSense, a system designed to adjust brightness based on detected distances. This project enhanced face detection accuracy across different environments with varying lighting conditions.
+ 
 Link to PPT:- https://docs.google.com/presentation/d/1e0vmbY6F83I9GmaH8D2ZEcaXehlpDGbP/edit?usp=sharing&ouid=105191186790125380243&rtpof=true&sd=true
 
 Link to Report:- https://drive.google.com/file/d/1LBdxuZEWiI-9gqcPyN9z9oD-qHFhJRBj/view?usp=sharing
